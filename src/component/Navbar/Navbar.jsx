@@ -2,7 +2,7 @@
 import { Link, NavLink } from 'react-router-dom';
 // import { Toggle } from './component/Toggle.jsx'
 import './Navbar.css';
-import Toggle from '../Toggle';
+import Toggle from '../Toggle';    
 
 const Navbar = () => {
   // const [Text, setText] = useState('Task')
